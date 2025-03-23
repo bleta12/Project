@@ -1,0 +1,21 @@
+{
+  "appTitle": "Rick und Morty Charaktere",
+  "filters": {
+    "species": "Spezies",
+    "status": "Status"
+  },
+  "sortControls": {
+    "sortBy": "Sortieren nach",
+    "name": "Name",
+    "origin": "Herkunft"
+  },
+  "character": {
+    "status": "Status",
+    "species": "Spezies",
+    "origin": "Herkunft"
+  },
+  "errorModal": {
+    "title": "Etwas ist schiefgelaufen!",
+    "close": "Schließen"
+  }
+}

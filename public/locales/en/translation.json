@@ -1,0 +1,21 @@
+{
+  "appTitle": "Rick and Morty Characters",
+  "filters": {
+    "species": "Species",
+    "status": "Status"
+  },
+  "sortControls": {
+    "sortBy": "Sort By",
+    "name": "Name",
+    "origin": "Origin"
+  },
+  "character": {
+    "status": "Status",
+    "species": "Species",
+    "origin": "Origin"
+  },
+  "errorModal": {
+    "title": "Something went wrong!",
+    "close": "Close"
+  }
+}
