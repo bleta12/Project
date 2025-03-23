@@ -14,7 +14,7 @@ function Filters({filters, onFilterChange}) {
                 value={filters.species}
                 onChange={onFilterChange}
                 placeholder="Filter by species"
-                style={{ marginRight: '20px' }}
+                style={{ marginRight: '30px' }}
             />
             
             <label htmlFor="status">{t('filters.status')}:</label>
